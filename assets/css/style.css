@@ -67,6 +67,7 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
+    max-height: 200px;
 }
 
 .content {
@@ -165,10 +166,6 @@ p {
 }
 
 .search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
     max-height: 200px;
 }
 
