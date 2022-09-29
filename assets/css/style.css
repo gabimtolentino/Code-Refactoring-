@@ -161,6 +161,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    font-size: 36px;
 }
 
 .search-engine-optimization img {
@@ -177,10 +178,6 @@ p {
 }
 
 
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 #footer {
     padding: 30px;
