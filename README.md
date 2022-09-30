@@ -2,8 +2,8 @@
 My first challenge HW 1
 This is my first project challenge! I have been tasked to refactor existing code.
 My first step was to view and analyze the semantic HTML elements.
-Once I viewed the existing HTML structure I looked for repition that I could potentially organize in a more structured manner.
-I put to use the semantic HTML information that I learned in class.
+Once I viewed the existing HTML structure I looked for repetition that I could potentially organize in a more structured manner.
+I put to use the semantic HTML elements information that I learned in class such as header, main, section.
 I made sure to commit and push frequently to my GitHub.
 I added CSS comments.
 I added accessible alt attributes to the existing image elements.
